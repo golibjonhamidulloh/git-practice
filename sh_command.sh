@@ -3,3 +3,6 @@
 cd <folder name>
 ls -la
 ll
+less
+tail -f
+cp <file-to-copy> <where-to-copy>
