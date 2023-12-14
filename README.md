@@ -1,6 +1,5 @@
 # git-practice
-made change in the main
-This is changes lines
+This is repo created in git class for practice
 
 ## Dev
 - This is my line 1
